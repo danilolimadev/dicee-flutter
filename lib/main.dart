@@ -18,6 +18,17 @@ void main() {
 class DicePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Row(
+      children: <Widget>[
+        Expanded(
+          flex: 1,  //Indica proporção relacionada com o outro, nesse caso ambos tem o mesmo tamanho 1 e 1
+          child: Image.asset('images/dice1.png'),
+        ),
+        Expanded(
+          flex: 1,
+          child: Image.asset('images/dice1.png'),
+        ),
+      ],
+    );
   }
 }
