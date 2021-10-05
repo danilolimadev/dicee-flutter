@@ -2,7 +2,7 @@
 
 ## Goal
 
-The objective of this app is to lern the core programming concepts that will form the foundation of most of the apps I will build in the future. This app teach me how to make apps with functionality using setState() inside Stateful Flutter widgets.
+The objective of this app is to lern the core programming concepts that form the foundation of most of the apps. This app teaches how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
 ## What I create
